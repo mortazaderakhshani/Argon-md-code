@@ -9,7 +9,7 @@ To compile:
 gcc liquid_argon_md.c -o liquid_argon_md.x
 
 To run:
-./liquid_argon_mc.x < [config file]
+./liquid_argon_mc.x < [config file] > config.log
 
 Configuration file should contain values for the following keywords:
 
