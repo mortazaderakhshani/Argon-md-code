@@ -1,5 +1,4 @@
-# Argon-md-code
-Necessary files:
+List of Necessary files:
 liquid_argon_md.c
 stringlib.c
 striglib.h
